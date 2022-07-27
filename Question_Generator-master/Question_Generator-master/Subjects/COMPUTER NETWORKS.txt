@@ -1,0 +1,48 @@
+define socket.::K1
+define http.::K1
+what is web caching?::K1
+what are the applications of web caching?::K1
+label examples of content distribution networks?::K1
+what are advantages and disadvantages of web caching?::K1
+what do you mean by FTP?::K1
+what is out of band protocol?::K1
+what is inband protocol?::K1
+illustrate web email.::K2
+illustrate basic operations of SMTP.::K2
+illustrate POP3.::K2
+summarize DNS.::K2
+infer does DNS protocol run over UDP?::K2
+show challenges of p2p architecture.::K2
+show TCPvsUDP.::K2
+infer hash tables?::K2
+identify the p2p architectures.::K3
+identify the principle of reliable data transfer.::K3
+identify the time out interval in given problem.::K3
+organize TCP segment structure.::K3
+apply UDP error checking for problem.::K3
+how portno and socket are used?::K1
+compare SMTP and POP3?::K4
+compare multiplexing and demultiplexing?::K4
+list mechanisms for reliable data transfer.::K4
+distinguish routing and flooding?::K4
+classify TCP segment structure.::K4
+classify routing algorithom.::K4
+distinguish DVR and LSR.::K4
+explain network surface model.::K5
+explain connection set up done in network layer.::K5
+justify types of flooding.::K5
+recommend standard types of rating algorithm.::K5
+function of network layer.::K4
+determine structure of forwarding table.::K5
+recommend some file transfer applications.::K5
+explain multimedia applications using skype.::K5
+explain three way hand shaking property used for connection establishment.::K5
+design TCP segment structure.::K6
+design DNS server.::K6
+construct local DNS server interacts with various DNS server during translation.::K6
+analyse the peer to peer architecture to estimate file distribution.::K6
+compare HTTP and FTP.::K4
+create UDP segment structure.::K6
+demonstrate mechanism for ABR.::K2
+show TCP congestion policies.::K2
+list flaws in connection establishment and termination  in TCP.::K4

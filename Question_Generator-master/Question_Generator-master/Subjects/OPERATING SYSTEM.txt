@@ -1,0 +1,47 @@
+define operating system.list the objectives of operating system.::K1
+distinguish between logical and physical address space.::K4
+what are the various attributes that are associated with an opened file?::K1
+what is a process?explain about various fields of process control block.::K1
+What are the advantages of inter-process communication? How communication takes place in a shared-memory environment? Explain.::K1
+What is a Critical Section problem? Give the conditions that a solution to the Critical section problem must satisfy.::K6
+What is Dining Philosophers problem? Discuss the solution to Dining philosopher’s problem using monitors.::K6
+Discuss the benefits of virtual memory technique. ::K6
+What is Thrashing? What is the cause of Thrashing? How does the system .::K1
+Explain the Resource-Allocation-Graph algorithm for deadlock avoidance.::K5
+Explain and compare the SCAN and C-SCAN disk scheduling algorithms.::K5
+explain about single-level, two-level and Tree-Structured directories.::K5
+Discuss the typical elements of the process control block.::K6
+Distinguish between counting and binary semaphores.::K4
+Discuss the Safe, unsafe, and deadlock state spaces.::K6
+Discuss the Simple Operating System Structure. Describe the layers of the Kernel.::K6
+Compare and contrast thread and process.::K5
+Discuss Multithreading Models with neat diagrams.::K6
+Discuss the procedure for handling the page fault in demand paging.::K6
+identify the actions taken by a kernel to context-switch between processes.::K3
+Explain recovery from deadlock after detection.::K5
+Discuss various types of disk storage attachments.::K6
+Explain File Free Space management approaches.::K5
+Identify the situations for preemption of a process.::K3
+organize different structures and page tables with strengths and weaknesses.::K3
+plan in detail the file allocation techniques : sequential, indexed and linkedand explain the same .::K6
+categorize the different techniques to recover the system from deadlock.::K4
+Categorize the first ,best fit memory allocation techniques.::K4
+determine are the functions of mutex semaphore?::K5
+Demonstrate the functionalities of operating system? Explain in detail.::K5
+classify and explain  monolithic kernel, layered, and microkernel structures of operating systems.::K5
+demonstrate e the role of sector sparing in identifying the bad blocks of mass storage.::K2
+summarize between kernel mode and user mode.::K2
+categorize bit map based allocation of blocks on the disk with a free block list.::K4
+illustrate the differences among long-term scheduling. short-term, and mediumterm scheduling.::K2
+apply the Resource-Allocation Graph Algorithm for deadlock prevention.::K3
+illustrate any two disk scheduling algorithms with suitable examples.::K2
+contrast the objectives and functions of an operating system.::K4
+analyze the various file accessing methods?::K4
+analyze the steps involved in process creation and process termination.::K4
+Demonstrate FIFO and Round Robin CPU scheduling algorithms with suitable example.::K2
+Explain the concept of demand paging in detail with neat diagrams.::K5
+illustrate Banker's deadlock-avoidance algorithm with an example.::K2
+Compare and contrast free space management and swap space management.::K5
+summarize this statement."Embedded systems always run on real-time operating system".::K2
+Discuss the transitional changes in process states diagram when blocked suspended and ready suspended states are included.::K6
+infer the hardware instruction Test And Set() and Swap() also give the mutual exclusion implementation with both.::K6

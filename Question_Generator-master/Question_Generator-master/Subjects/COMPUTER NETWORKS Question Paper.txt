@@ -1,0 +1,16 @@
+							-----------------------BMS INSTITUTE OF TECHNOLOGY AND MANAGEMENT----------------------
+							-----------------------------------------2021-2022---------------------------------------
+							------------------------------------COMPUTER NETWORKS|18CS52|M.M=80-------------------------------------
+							---------------------------------------Semester-5-----------------------------------------
+							PART A
+							2)explain three way hand shaking property used for connection establishment.    [10M]|K5
+							----------------------------------------------------------------------------------------
+							3)label examples of content distribution networks?    [10M]|K1
+							OR
+							4)illustrate web email.    [10M]|K2
+							----------------------------------------------------------------------------------------
+							5)design TCP segment structure.    [10M]|K6
+							OR
+							PARTB
+							7)identify the time out interval in given problem.    [10M]|K3
+							8)what are the applications of web caching?    [10M]|K1
